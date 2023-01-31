@@ -1,1 +1,3 @@
-# logmagic
+# autological
+
+Automagical logging for all.
